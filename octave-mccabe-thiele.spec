@@ -4,7 +4,7 @@ Summary:	A toolbox for the McCabe-Thiele method for GNU Octave. asd asdf safasdf
 Name:		octave-mccabe-thiele
 Version:	0.1.5
 Release:	1
-License:	GPL-3.0-or-later
+License:	GPLv3+
 Group:		Development/Python
 #Url:		https://packages.octave.org/mccabe-thiele/
 Url:		https://github.com/aumpierre-unb/McCabe-Thiele-for-GNU-Octave/
