@@ -8,7 +8,7 @@ License:	GPLv3+
 Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/mccabe-thiele/
 Url:		https://github.com/aumpierre-unb/McCabe-Thiele-for-GNU-Octave/
-Source0:	https://github.com/aumpierre-unb/McCabe-Thiele-for-GNU-Octave/archive/refs/tags/v%{version}.tar.gz
+Source0:	https://github.com/aumpierre-unb/McCabe-Thiele-for-GNU-Octave/archive/refs/tags/v%{version}/mccabe-thiele-%{version}.tar.gz
 
 BuildRequires:  octave-devel >= 4.0.0
 
