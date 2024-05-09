@@ -3,7 +3,7 @@
 Summary:	A toolbox for the McCabe-Thiele method for GNU Octave
 Name:		octave-mccabe-thiele
 Version:	0.1.5
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/mccabe-thiele/
